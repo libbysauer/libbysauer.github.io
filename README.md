@@ -5,4 +5,4 @@ Welcome to my website.
 pizza
 -----
 
-# pepperoni
+1. pepperoni
