@@ -1,7 +1,6 @@
 # libbysauer.github.io
-layout: page
-title: "Libby"
-permalink: /
-
 
 Libby's Website
+===============
+
+Welcome to my website.
